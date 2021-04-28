@@ -9,7 +9,7 @@
 			"RestTime" : "1:00",
 			"Weight": "",
 			"ExampleVideo": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
-			"WorkoutImage" : "bicep.png"
+			"WorkoutImage" : "https://raw.githubusercontent.com/athomp50/JSONProjectsIT315/master/bicep.png"
 		},
 
 
@@ -20,7 +20,7 @@
 			"RestTime" : "1:00",
 			"Weight": "",
 			"ExampleVideo": "https://www.youtube.com/watch?v=oq7jXQP3Fk8",
-			"WorkoutImage" : "21.jpg"
+			"WorkoutImage" : "https://raw.githubusercontent.com/athomp50/JSONProjectsIT315/master/21.jpg"
 		},
 
 
@@ -31,7 +31,7 @@
 			"Rest Time" : "2:00",
 			"Weight": "",
 			"ExampleVideo": "https://www.youtube.com/watch?v=vP8G8RC4Qko",
-			"WorkoutImage" : "straightarm.png"
+			"WorkoutImage" : "https://raw.githubusercontent.com/athomp50/JSONProjectsIT315/master/straightarm.jpg"
 		},
 
 
@@ -42,7 +42,7 @@
 			"Rest Time" : ":30",
 			"Weight": "",
 			"ExampleVideo": "https://www.youtube.com/watch?v=vB5OHsJ3EME",
-			"WorkoutImage" : "tricep.png"
+			"WorkoutImage" : "https://raw.githubusercontent.com/athomp50/JSONProjectsIT315/master/tricep.jpg"
 		},
 
 
@@ -53,7 +53,7 @@
 			"Rest Time" : "1:30",
 			"Weight": "",
 			"ExampleVideo": "https://www.youtube.com/watch?v=NIWKqcmpBug",
-			"WorkoutImage" : "skullcrusher.png"
+			"WorkoutImage" : "https://raw.githubusercontent.com/athomp50/JSONProjectsIT315/master/skullcrusher.png"
 		}
 
 	]
