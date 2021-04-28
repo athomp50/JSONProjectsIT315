@@ -1,0 +1,60 @@
+{
+	
+	"workouts": [
+
+		{
+			"WorkoutName": "Bicep Curl",
+			"Reps": "10",
+			"Sets": "3",
+			"RestTime" : "1:00",
+			"Weight": "",
+			"ExampleVideo": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+			"WorkoutImage" : "bicep.png"
+		},
+
+
+		{
+			"WorkoutName": "21's",
+			"Reps": "21",
+			"Sets": "3",
+			"RestTime" : "1:00",
+			"Weight": "",
+			"ExampleVideo": "https://www.youtube.com/watch?v=oq7jXQP3Fk8",
+			"WorkoutImage" : "21.jpg"
+		},
+
+
+		{
+			"WorkoutName": "Straight Arm Bicep Curl",
+			"Reps": "10",
+			"Sets": "3",
+			"Rest Time" : "2:00",
+			"Weight": "",
+			"ExampleVideo": "https://www.youtube.com/watch?v=vP8G8RC4Qko",
+			"WorkoutImage" : "straightarm.png"
+		},
+
+
+		{
+			"WorkoutName": "Tricep Pull Down",
+			"Reps": "10",
+			"Sets": "3",
+			"Rest Time" : ":30",
+			"Weight": "",
+			"ExampleVideo": "https://www.youtube.com/watch?v=vB5OHsJ3EME",
+			"WorkoutImage" : "tricep.png"
+		},
+
+
+		{
+			"WorkoutName": "Skull Crushers",
+			"Reps": "15",
+			"Sets": "3",
+			"Rest Time" : "1:30",
+			"Weight": "",
+			"ExampleVideo": "https://www.youtube.com/watch?v=NIWKqcmpBug",
+			"WorkoutImage" : "skullcrusher.png"
+		}
+
+	]
+}
